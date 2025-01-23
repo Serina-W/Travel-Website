@@ -1,6 +1,6 @@
-# Hack School Fall 2024
+# Serina Wang's repository for Hack School Fall 2024.
 
-Followed a 6 Part Workshop to Complete this Project.
+Followed a 6 Part Workshop from ACM at UCSD to Complete this Project.
 
 Part 1 (10/15) - Intro to HTML/CSS
 
