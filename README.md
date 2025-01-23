@@ -1,5 +1,7 @@
 # Hack School Fall 2024
 
+Followed a 6 Part Workshop to Complete this Project.
+
 Part 1 (10/15) - Intro to HTML/CSS
 
 Part 2 (10/22) - JavaScript & Node.js
